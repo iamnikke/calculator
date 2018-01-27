@@ -1,4 +1,5 @@
 # Calculator
+Current latest version: 0.1
 
 # About
-My very first actually functional Java program. A simple calculator!
+This is my very first actually functional Java program. A simple calculator!
